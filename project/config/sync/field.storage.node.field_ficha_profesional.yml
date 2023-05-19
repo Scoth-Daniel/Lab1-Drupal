@@ -1,0 +1,20 @@
+uuid: 3481edbe-438c-45dc-bfad-6ff4233dc441
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+    - node
+id: node.field_ficha_profesional
+field_name: field_ficha_profesional
+entity_type: node
+type: entity_reference
+settings:
+  target_type: media
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

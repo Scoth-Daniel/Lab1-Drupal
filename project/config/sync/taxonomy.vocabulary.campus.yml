@@ -1,0 +1,8 @@
+uuid: cffc920c-ad6c-45ab-870b-06c205f2a5d7
+langcode: en
+status: true
+dependencies: {  }
+name: Campus
+vid: campus
+description: Nadananana
+weight: 0

@@ -1,4 +1,4 @@
-uuid: 9c018673-4d38-4996-8d55-1778260616df
+uuid: 61b1c344-6fba-445f-ae68-d3b7e5f51953
 langcode: en
 status: true
 dependencies:
@@ -11,8 +11,8 @@ id: node.curso.body
 field_name: body
 entity_type: node
 bundle: curso
-label: Descripción
-description: 'Describa el curso.'
+label: 'Descripción del curso'
+description: 'Para efectos del formulario.'
 required: false
 translatable: true
 default_value: {  }
